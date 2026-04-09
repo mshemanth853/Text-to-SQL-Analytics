@@ -20,12 +20,12 @@ This approach reduces dependence on manual query writing and speeds up decision-
 
 ---
 ## Images
-Image 1 : (https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png.png)
----
-Image 2 : (https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png%20(1).png)
----
-Image 3 : (http://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png%20(2).png)
----
+
+![Image 1 ](https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png.png)
+
+![Image 2 ](https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png%20(1).png)
+
+![Image 3 ](https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png%20(2).png)
 ## Core Capabilities 
 
 - **Natural language query input**
