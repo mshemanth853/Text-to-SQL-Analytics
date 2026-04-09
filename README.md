@@ -3,7 +3,6 @@ Built a Text-to-SQL analytics platform enabling natural language queries, automa
 
 A Text-to-SQL analytics platform concept that lets users ask data questions in plain language, converts those questions to SQL, executes queries safely, and presents results through visual dashboards.
 
-> Current repository status: this repo is currently a lightweight project  with documentation and images only.
 
 ---
 
