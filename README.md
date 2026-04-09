@@ -75,6 +75,3 @@ This approach reduces dependence on manual query writing and speeds up decision-
 **Tools:** Jupyter Notebook, PyCharm, pgAdmin 4, Google Colab, SQL Workbench, Power BI  
 **Email:** mshemanth853@gmail.com  
 
-## License
-
-Add an appropriate license (e.g., MIT, Apache-2.0) before public distribution.
