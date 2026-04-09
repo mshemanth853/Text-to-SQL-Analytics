@@ -18,6 +18,15 @@ Text-to-SQL-Analytics is intended to bridge the gap between business users and d
 This approach reduces dependence on manual query writing and speeds up decision-making for non-technical users.
 
 ---
+## Tech Stack
+
+- **Programming Language**: Python  
+- **Frontend/UI**: Streamlit  
+- **Database**: MySQL  
+- **LLM Engine**: Groq API  
+- **Data Handling**: Pandas  
+- **Visualization**: Matplotlib / Plotly
+ ---
 ## Images
 
 ![Image 1 ](https://github.com/mshemanth853/Text-to-SQL-Analytics/blob/main/photo-collage.png.png)
